@@ -20,3 +20,5 @@ It replicates the design and layout of Amazon’s homepage, including navigation
 ---
 
 ## 🛠 Technologies Used
+- HTML
+- CSS
